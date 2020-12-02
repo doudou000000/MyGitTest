@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         //MyGitTest中发生了改变
 
         //MyGitTest2中发生了改变
+
+        //分支b1中发生了改变
+
     }
 }

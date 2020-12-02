@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //MyGitTest中发生了改变
+
+        //MyGitTest2中发生了改变
     }
 }
